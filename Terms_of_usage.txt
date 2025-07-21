@@ -1,0 +1,28 @@
+ Terms of Usage
+
+This project is open-source and free to use under the [MIT License](LICENSE).
+
+By using, contributing to, or interacting with this project, you agree to the following terms:
+
+* 1. Usage Restrictions
+
+- You **may NOT sell or commercially distribute** this project or any derivatives based on it.  
+- You **may NOT include malicious code**, hidden scripts, viruses, or malware that could harm users or their systems.
+
+* 2. Repository Integrity
+
+- Collaborators and contributors must **NOT delete, remove, or alter files** in a way that compromises the repository’s integrity without explicit permission from the repository owner.  
+- All changes should be made via Pull Requests and reviewed accordingly.
+
+*3. Contributions
+
+- Contributions are welcome!  
+- By submitting contributions, you agree that your work will be licensed under the same MIT License as this project.
+
+*4. Disclaimer
+
+- This project is provided "AS IS", without any warranty. The authors are not responsible for any damages or issues arising from the use of this software.
+
+---
+
+Thank you for respecting these terms and supporting a healthy open-source community.munity.
