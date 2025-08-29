@@ -51,7 +51,6 @@ Run the scripts from your terminal. The scripts will prompt you to:
 - Keep your bot token secure! Do **not** share it publicly.  
 - Follow Discord’s API rate limits to avoid being banned.  
 - This project is open-source under the [MIT License](LICENSE).  
-- See [Terms of Usage](TERMS_of_usage.md) for rules regarding usage and contributions.
 
 ---
 
@@ -64,6 +63,13 @@ Contributions and improvements are welcome! Feel free to open issues or submit p
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## IMPORTANT ADVICE
+
+This project is **not** intended to impersonate a Discord bot or violate any Discord terms and guideline.
+any malicious use or bad intent are not my responsibility. do not use the commands and codes to violate any guidelines.
 
 ---
 
